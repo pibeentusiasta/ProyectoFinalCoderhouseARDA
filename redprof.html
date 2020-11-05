@@ -83,13 +83,51 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <section class="inner-page">
+          <!-- ======= Red de profesionales de RD ======= -->
+    <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
-        <p>
-          Example inner page template
-        </p>
+
+        <div class="section-title">
+          <h2>¿Sos profesional de la salud y tenés formación en redicción de daños? ¡Hagamos contacto!</h2>
+          <p>Desde ARDA decidimos construir una red de profesionales cuya práctica se desarrolle desde una perspectiva de derechos que vaya en la misma dirección que los lineamientos que marca la Ley Nacional de Salud Mental y Adicciones.
+          </p>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="form-row">
+                <div class="col form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" data-rule="minlen:3" data-msg="Por favor, ingrese al menos 3 caracteres" />
+                  <div class="validate"></div>
+                </div>
+                <div class="col form-group">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" data-rule="email" data-msg="Ingrese su email" />
+                  <div class="validate"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="asunto" id="asunto" placeholder="Asunto" data-rule="minlen:4" data-msg="Por favor ingrese al menos 8 caracteres" />
+                <div class="validate"></div>
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" name="mensaje" rows="5" data-rule="required" data-msg="¿En qué podemos ayudarte?" placeholder="Mensaje"></textarea>
+                <div class="validate"></div>
+              </div>
+              <div class="mb-3">
+                <div class="loading">Cargando</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Su mensaje fue enviado. ¡Muchas gracias!</div>
+              </div>
+              <div class="text-center"><button type="submit">Enviar mensaje</button></div>
+            </form>
+          </div>
+
+        </div>
+
       </div>
-    </section>
+    </section><!-- Fin red de profesionales de RD -->
 
   </main><!-- End #main -->
 
