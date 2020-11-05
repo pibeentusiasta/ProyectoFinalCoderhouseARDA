@@ -757,6 +757,14 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.servicios .icon-box {
+  margin-bottom: 20px;
+  padding: 30px;
+  border-radius: 6px;
+  background: white;
+  transition: 0.3s;
+}
+
 .services .icon-box {
   margin-bottom: 20px;
   padding: 30px;
