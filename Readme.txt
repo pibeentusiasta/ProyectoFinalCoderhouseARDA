@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Presento
-Template URL: https://bootstrapmade.com/presento-bootstrap-corporate-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Esta es la web de ARDA - Asociación de Reducción de Daños de Argentina.
