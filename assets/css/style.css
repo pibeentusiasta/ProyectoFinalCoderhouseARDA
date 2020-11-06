@@ -471,11 +471,11 @@ section {
   content: "";
   background: #1b1b1b;
   position: absolute;
-  bottom: 60px;
-  top: 60px;
+  bottom: 30px;
+  top: 30px;
   left: 0;
   right: 0;
-  transform: skewY(-3deg);
+  transform: skewY(-1deg);
 }
 
 /*--------------------------------------------------------------
