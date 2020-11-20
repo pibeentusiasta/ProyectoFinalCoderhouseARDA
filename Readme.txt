@@ -1,3 +1,6 @@
-Esta es la web de ARDA - Asociación de Reducción de Daños de Argentina.
+Thanks for downloading this template!
 
-Saludos, @pibeentusiasta ⚡
+Template Name: Presento
+Template URL: https://bootstrapmade.com/presento-bootstrap-corporate-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
