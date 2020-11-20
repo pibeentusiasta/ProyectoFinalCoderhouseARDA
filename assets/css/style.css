@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: 'Montserrat', sans-serif;
-  color: #BLACK;
+  color: black;
 }
 
 a {
@@ -464,7 +464,7 @@ section {
 
 .section-bg {
   padding: 120px 0;
-  color: #white;
+  color: black;
 }
 
 .section-bg:before {
@@ -648,11 +648,11 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #fff;
+  background: #E6E6E6;
   padding: 12px;
   color: #CE0000;
   border-radius: 50px;
-  border: 2px solid #fff;
+  border: 2px solid #CE0000;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
 }
 
